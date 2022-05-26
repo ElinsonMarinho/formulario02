@@ -1,0 +1,11 @@
+* {
+    margin: 4px auto;
+
+  }
+  .container {
+      text-align: center;
+      background-color: rgb(107, 98, 98);
+      color:white;
+      height: 560px;
+      width: 500px;
+  }
